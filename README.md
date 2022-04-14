@@ -1,4 +1,4 @@
-<img align="center" src="./images/banner_main.png">
+<img align="center" src="./gifs/git_banner.gif" alt="banner">
 <h1 align="center">
     Hello<img alt="waving_hand" width="40" src="./gifs/waving_hand.webp" alt="hand"> I'm Sai Nithin Dintakurthi.
 </h1>
