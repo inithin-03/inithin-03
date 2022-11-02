@@ -57,7 +57,7 @@
 </br>
 </br>
 
-#### My GitHub Contributions.
+#### My GitHub Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=inithin-03&theme=sea-dark)](https://git.io/streak-stats)
 
 <div align="center">
