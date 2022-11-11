@@ -29,7 +29,7 @@
 </br>
 </br>
 
-### 🤝 Connect with me:
+### 🤝 Connect with me : 
 </br>
 <div align="left">
 <a  href="https://nithin--portfolio.herokuapp.com/" target="_blank"><img alt="Website" src="./images/globe_white.png" /></a>
