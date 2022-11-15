@@ -22,7 +22,7 @@
 - 👯 I am looking to collaborate and to do projects together based on HTML,CSS and Django.
 - <img width="15px" alt="programming" src="./images/programming.png" /> I love to do programming using Java and Python.
 - 🎵 Listening to music have been my pastime.
-- ⚡ Fun fact: I enjoy playing chess ♟ and cricket 🏏 a lot  
+- ⚡ Fun fact : I enjoy playing chess ♟ and cricket 🏏 a lot  
 </div>
 
 </br>
