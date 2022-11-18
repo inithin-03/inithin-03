@@ -16,7 +16,7 @@
 <div>
 <img align="right" width="300" src="./gifs/web_developer.gif" alt="web_developer">
 
-- 💻Check out my site to reach me. @ **[Dintakurthi](https://nithin--portfolio.herokuapp.com)**
+- 💻Check out my site to reach me. @ **[Dintakurthi](https://nithin--portfolio.herokuapp.com)**.
 
 - 🌱 I am currently learning web development.
 - 👯 I am looking to collaborate and to do projects together based on HTML,CSS and Django.
