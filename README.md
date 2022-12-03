@@ -18,7 +18,7 @@
 
 - 💻Check out my site to reach me @ **[Dintakurthi](https://nithin--portfolio.herokuapp.com)**.
 
-- 🌱 I am currently learning web development.
+- 🌱 I am currently learning web development. 
 - 👯 I am looking to collaborate and to do projects together based on HTML,CSS and Django.
 - <img width="15px" alt="programming" src="./images/programming.png" /> I love to do programming using Java and C++.
 - 🎵 Listening to music have been my pastime.
