@@ -44,7 +44,7 @@
 
 
 
-### 🍁 My Current Tech Stack :
+### 🍁 My Current Tech Stack:
 </br>
 <img align="right" width="300" src="./gifs/programmer.gif" alt="programmer">
 
