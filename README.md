@@ -8,7 +8,7 @@
 </p>
 <h3 align="center">
 
-   ###     🧑‍💼 I'm very interested in web development and am ready to accept an internship offer regarding web development and information technology.
+   ###     🧑‍💼 I'm very interested in web development and am ready to accept an internship offer regarding web development and information technology. 
 </h3>
 
 </br>
